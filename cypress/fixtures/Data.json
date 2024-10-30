@@ -1,0 +1,24 @@
+{
+  "product": {
+    "title": "Test Product",
+    "price": 10.00,
+    "description": "product test",
+    "category": "electronic",
+    "image": "https://example.com/product.jpg"
+  },
+  "cart": {
+    "userId": 1,
+    "date": "2024-10-01",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 2
+      }
+    ]
+  },
+  "user": {
+    "username": "user",
+    "password": "password",
+    "email": "test_user@gmail.com"
+  }
+}
